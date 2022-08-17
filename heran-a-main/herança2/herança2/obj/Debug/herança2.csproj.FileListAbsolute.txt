@@ -1,0 +1,13 @@
+C:\Users\2jdmtec\Desktop\heran-a-main\herança2\herança2\bin\Debug\herança2.exe.config
+C:\Users\2jdmtec\Desktop\heran-a-main\herança2\herança2\bin\Debug\herança2.exe
+C:\Users\2jdmtec\Desktop\heran-a-main\herança2\herança2\bin\Debug\herança2.pdb
+C:\Users\2jdmtec\Desktop\heran-a-main\herança2\herança2\obj\Debug\herança2.csproj.AssemblyReference.cache
+C:\Users\2jdmtec\Desktop\heran-a-main\herança2\herança2\obj\Debug\herança2.csproj.SuggestedBindingRedirects.cache
+C:\Users\2jdmtec\Desktop\heran-a-main\herança2\herança2\obj\Debug\herança2.Cad_Aluno.resources
+C:\Users\2jdmtec\Desktop\heran-a-main\herança2\herança2\obj\Debug\herança2.Cad_Prof.resources
+C:\Users\2jdmtec\Desktop\heran-a-main\herança2\herança2\obj\Debug\herança2.Form1.resources
+C:\Users\2jdmtec\Desktop\heran-a-main\herança2\herança2\obj\Debug\herança2.Properties.Resources.resources
+C:\Users\2jdmtec\Desktop\heran-a-main\herança2\herança2\obj\Debug\herança2.csproj.GenerateResource.cache
+C:\Users\2jdmtec\Desktop\heran-a-main\herança2\herança2\obj\Debug\herança2.csproj.CoreCompileInputs.cache
+C:\Users\2jdmtec\Desktop\heran-a-main\herança2\herança2\obj\Debug\herança2.exe
+C:\Users\2jdmtec\Desktop\heran-a-main\herança2\herança2\obj\Debug\herança2.pdb
